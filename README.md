@@ -1,5 +1,5 @@
 ## Hello, I`m [Yanz Dev](https://instagram.com/yanzbotz_) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-[<img src="https://img.shields.io/badge/Website-Yanz-GPT-blue">](http://yanzgpt.my.id/chat)
+[<img src="https://img.shields.io/badge/Website-YanzGPT-blue">](http://yanzgpt.my.id/chat)
 [<img src="https://img.shields.io/badge/Email-YanzBotz@gmail.com-purple">](mailto:help@yanzgpt.my.id)
 <a href="https://www.instagram.com/yanzbotz_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://wa.me/683899737438?text=Hallo+Bang" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
