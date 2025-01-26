@@ -1,7 +1,7 @@
-# Hi, I'm Yanz Dev 👋
-<h2 align="center">
+<h1 align="center">
+  Hi, i'm Yanz Dev
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h2>
+<h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00FFFF&center=true&width=900&lines=🚀+Software+Engineer+%26+AI+Innovator;💻+Full+Stack+Developer;🧠+Tech+Enthusiast+%26+Problem+Solver;🌈+Transforming+Ideas+into+Intelligent+Solutions" alt="Dynamic Professional Introduction"/>
