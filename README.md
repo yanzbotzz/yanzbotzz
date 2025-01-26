@@ -84,11 +84,11 @@ I'm a passionate **Software Engineer** and **AI Innovator** from Indonesia, dedi
 
 ## 🎵 Inspiration Soundtrack
 
-<div align="center">
-  <a href="https://open.spotify.com/user/yanzdev" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=yanzdev&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Inspiration"/>
+<p align="center">
+  <a href="https://open.spotify.com/track/4y7XDqU1g5qhz4sJhfW4ts" target="_blank">
+    <img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>
   </a>
-</div>
+</p>
 
 ## 👀 Profile Glimpse
 
