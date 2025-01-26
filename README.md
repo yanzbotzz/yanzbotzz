@@ -28,12 +28,12 @@ I'm a passionate **Software Engineer** and **AI Innovator** from Indonesia, dedi
 ## 🏆 GitHub Performance
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YanzBotz&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Achievements"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yanzdeev&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Achievements"/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=YanzBotz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanzBotz&layout=compact&langs_count=7&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yanzdeev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanzdeev&layout=compact&langs_count=7&theme=tokyonight" height="180em"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YanzBotz&theme=tokyonight" alt="Contribution Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanzdeev&theme=tokyonight" alt="Contribution Streak"/>
 </div>
 
 ## 🚀 Innovative Projects
