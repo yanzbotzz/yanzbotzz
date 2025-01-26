@@ -1,8 +1,8 @@
 ## Hello, I`m [Yanz Dev](https://instagram.com/yanzbotz_) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 [<img src="https://img.shields.io/badge/Website-YanzBotz-blue">](http://api.yanzbotz.live)
-[<img src="https://img.shields.io/badge/Email-YanzBotz@gmail.com-purple">](mailto:yanzbotzzz@gmail.com)
+[<img src="https://img.shields.io/badge/Email-YanzBotz@gmail.com-purple">](mailto:help@yanzgpt.my.id)
 <a href="https://www.instagram.com/yanzbotz_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://wa.me/68783899737438?text=Hallo+Bang" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a href="https://wa.me/683899737438?text=Hallo+Bang" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 
 :page_with_curl: I'm currently learning :
@@ -18,7 +18,7 @@
 
 ### 📫 Feel free to contact me anytime
 [<img src="https://img.shields.io/badge/Telegram-%40YanzBotzX-blue">](https://t.me/YanzBotzX)
-[<img src="https://img.shields.io/badge/Email-YanzBotz@gmail.com-orange">](mailto:yanzbotzzz@gmail.com)
+[<img src="https://img.shields.io/badge/Email-YanzBotz@gmail.com-orange">](mailto:help@yanzgpt.my.id)
 <a href="https://www.instagram.com/yanzbotz_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/yanzbotz_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://wa.me/6283899737438?text=Hallo+bg" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
